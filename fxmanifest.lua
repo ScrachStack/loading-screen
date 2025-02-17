@@ -10,5 +10,6 @@ client_scripts {
 }
 
 loadscreen 'html/index.html'
-file 'html/index.html'
-
+files {
+    'html/*'
+}
